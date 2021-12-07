@@ -8,4 +8,5 @@ To start VIPER run the command: [VIPER executable] [host] [port]
 1) Run in Windows/Linux/MacOS environments
 2) Create unlimited number of VIPER instances for massive scale - fully compatible with microservices architecture for load shedding
 3) VIPER can be accessed via MAADS python library or REST API
+4) If using VIPER with ON-PREM version of Kafka then set ONPREM=1 in Viper.env 
 
