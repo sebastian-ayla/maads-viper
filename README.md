@@ -2,7 +2,7 @@
 
 VIPER is an Apache Kafka source and sink connector for TML solutions. 
 
-VIPER is currently the only Kafka connector (https://www.confluent.io/hub/oticsinc/maads-viper), integrated with AutoML (HPDE) and [MAADSTML python library](https://pypi.org/project/maadstml/) (https://pypi.org/project/maads/) to create powerful TML solutions, fast!  
+VIPER is currently the only Kafka connector (https://www.confluent.io/hub/oticsinc/maads-viper), integrated with AutoML (HPDE) and [MAADSTML python library](https://pypi.org/project/maadstml/) to create powerful TML solutions, fast!  
 
 To start VIPER run the command: [VIPER executable] [host] [port]
 1) Run in Windows/Linux/MacOS environments
