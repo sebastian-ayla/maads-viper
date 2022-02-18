@@ -10,3 +10,4 @@ To start VIPER run the command: [VIPER executable] [host] [port]
 3) VIPER can be accessed via MAADSTML python library or REST API using HTTP or HTTPS connections
 4) If using VIPER with ON-PREM version of Kafka then set ONPREM=1 in Viper.env 
 
+NOTE: You can also force the producer to compress data by setting the COMPRESSIONTYPE option in VIPER.ENV to SNAPPY, LZ4, GZIP or NONE.
